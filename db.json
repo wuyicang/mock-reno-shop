@@ -1,0 +1,11 @@
+{
+  "shops": [
+    {
+      "id": "SHAWA",
+      "description": "Shanghai Waldorf"
+    }, {
+      "id": "SHAHQ",
+      "description": "Hilton Hongqiao"
+    }
+  ]
+}
